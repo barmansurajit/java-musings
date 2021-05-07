@@ -1,0 +1,20 @@
+
+k
+java:S1192U"IDefine a constant instead of duplicating this literal "IPhone X" 4 times.(„ÿ¨úÿÿÿÿ8ıÇ¸œå.
+s
+java:S1192i"QDefine a constant instead of duplicating this literal "%s price is %.2f" 4 times.(Éúµ®øÿÿÿÿ8ıÇ¸œå.
+F
+java:S2629U"$Invoke method(s) only conditionally.(„ÿ¨úÿÿÿÿ8ıÇ¸œå.
+A
+java:S2629X"$Invoke method(s) only conditionally.(Äæ¤8ıÇ¸œå.
+F
+java:S2629["$Invoke method(s) only conditionally.(çåĞ™üÿÿÿÿ8ıÇ¸œå.
+A
+java:S2629^"$Invoke method(s) only conditionally.(½ÜÈÀ8ıÇ¸œå.
+Y
+java:S2629c"7Use the built-in formatting to construct this argument.(ó†×›ûÿÿÿÿ8ıÇ¸œå.
+>	java:S131S""Add a default case to this switch.(æˆ8ıÇ¸œå.
+m
+java:S3457c"KFormat specifiers or lambda should be used instead of string concatenation.(ó†×›ûÿÿÿÿ8ıÇ¸œå.
+d
+java:S2142¦"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ıÇ¸œå.

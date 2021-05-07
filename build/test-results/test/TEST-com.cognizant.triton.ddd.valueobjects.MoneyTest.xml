@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cognizant.triton.ddd.valueobjects.MoneyTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-15T14:53:26" hostname="MACLTUS66890" time="0.018">
+  <properties/>
+  <testcase name="test_different_currencies()" classname="com.cognizant.triton.ddd.valueobjects.MoneyTest" time="0.015"/>
+  <testcase name="test_money_deduction()" classname="com.cognizant.triton.ddd.valueobjects.MoneyTest" time="0.001"/>
+  <testcase name="test_money_addition()" classname="com.cognizant.triton.ddd.valueobjects.MoneyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

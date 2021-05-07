@@ -1,0 +1,29 @@
+[
+  {
+    "operationalPlanStopId": 27215,
+    "operationalPlanStopSequenceNumber": 4,
+    "operationalPlanStopReason": {
+      "operationalPlanStopReasonCode": "Delivery",
+      "operationalPlanStopReasonDescription": null
+    },
+    "locationDetailsDTO": {
+      "locationId": 139276,
+      "locationName": "Union Pacific 4*",
+      "locationCode": "4*",
+      "address": {
+        "addressLine1": "Humberto-Lobo 9317-Paper Ramp",
+        "addressLine2": "Attn Javier Rodriguez",
+        "city": "Monterrey",
+        "state": "NL",
+        "zipcode": "66050",
+        "country": "MEX",
+        "countryName": null,
+        "id": 195211
+      }
+    },
+    "orderStopIds" : [
+     "4891",
+      "4892"
+    ]
+  }
+]
